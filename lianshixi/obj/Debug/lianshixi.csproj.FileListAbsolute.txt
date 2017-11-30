@@ -1,0 +1,4 @@
+E:\6 产品\lianshixi.com\lianshixi\bin\lianshixi.dll
+E:\6 产品\lianshixi.com\lianshixi\bin\lianshixi.pdb
+E:\6 产品\lianshixi.com\lianshixi\obj\Debug\lianshixi.dll
+E:\6 产品\lianshixi.com\lianshixi\obj\Debug\lianshixi.pdb
